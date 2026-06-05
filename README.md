@@ -9,11 +9,15 @@ A 1st-Year B.Tech Computer Science Engineering student and aspiring Software Dev
 
 🏆 Competitive Programming & Coding Profiles
   I regularly challenge myself with complex algorithmic problems to sharpen my analytical thinking, logic execution, and efficiency early in my academic journey.
+  
   Codeforces: https://codeforces.com/profile/avinashmadde1812
+  
   LeetCode: https://leetcode.com/u/avinash181205/
 
 📈 GitHub Stats
   I am always eager to connect with mentors, peers, and recruiters for internship opportunities, tech collaborations, or interesting programming challenges.
+  
   LinkedIn: https://www.linkedin.com/in/madde-avinash-470431268/
+  
   Email: avinashnaidu1807@gmail.com
   “The best way to predict the future is to invent it.”
